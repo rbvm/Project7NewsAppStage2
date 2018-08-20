@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news_found">There are currently no news.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="please_connect">Please connect to the internet!</string>
+
+    <!-- Get the article category [CHAR LIMIT=NONE] -->
+    <string name="article_category_item">Article Category</string>
+
+    <!-- Get the article title [CHAR LIMIT=NONE] -->
+    <string name="article_title_item">Article Title</string>
+
+    <!-- Get the article author [CHAR LIMIT=NONE] -->
+    <string name="article_author_item">Article Author</string>
+
+    <!-- Get the article date [CHAR LIMIT=NONE] -->
+    <string name="article_date_item">Article Date</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+
+    <!-- String for number of articles to be displayed [CHAR LIMIT=NONE] -->
+    <string name="number_of_articles_label">Number of articles</string>
+    <string name="number_of_articles_key" translatable="false">number_of_articles</string>
+    <string name="number_of_articles_default" translatable="false">10</string>
+    <string name="hint_num_of_articles">Between 1 and 50</string>
+
+
+    <!-- Strings For Order-By Section Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_section_label">Order By</string>
+    <string name="settings_order_by_section_key" translatable="false">order_by</string>
+    <string name="settings_order_by_section_default" translatable="false">@string/settings_order_by_news_value</string>
+    <!-- Label for order-by sport option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_news_label">News</string>
+    <string name="settings_order_by_news_value" translatable="false">news</string>
+    <!-- Label for order-by science option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_science_label">Science</string>
+    <string name="settings_order_by_science_value" translatable="false">science</string>
+    <!-- Label for order-by tech option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_tech_label">Technology</string>
+    <string name="settings_order_by_tech_value" translatable="false">technology</string>
+    <!-- Label for order-by sport option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_sport_label">Sport</string>
+    <string name="settings_order_by_sport_value" translatable="false">sport</string>
+    <!-- Label for order-by culture option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_culture_label">Culture</string>
+    <string name="settings_order_by_culture_value" translatable="false">culture</string>
+    <!-- Label for order-by lifestyle option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_lifestyle_label">Fashion</string>
+    <string name="settings_order_by_lifestyle_value" translatable="false">fashion</string>
+
+</resources>

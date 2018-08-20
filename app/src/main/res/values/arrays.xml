@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="settings_order_by_section_labels">
+        <item>@string/settings_order_by_news_label</item>
+        <item>@string/settings_order_by_science_label</item>
+        <item>@string/settings_order_by_tech_label</item>
+        <item>@string/settings_order_by_sport_label</item>
+        <item>@string/settings_order_by_culture_label</item>
+        <item>@string/settings_order_by_lifestyle_label</item>
+    </string-array>
+
+</resources>
